@@ -10,4 +10,5 @@ Voters will register at the EC using a valid identity proof. The EC shall verify
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 During Election:
-Voter will submit the unique Voter ID at the VB, which shall be authenticated via the database of the EC. If the Voter ID exists in the database the voter shall be given a fifteen minute excess to the voting portal which shall 
+
+Voter will submit the unique Voter ID at the VB, which shall be authenticated via the database of the EC. If the Voter ID exists in the database the voter shall be given a fifteen minute excess to the voting portal which shall have the candidates of the constituency of the voter. 
